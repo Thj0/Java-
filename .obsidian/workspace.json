@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9f36a26b808c580b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b1966f61a6073e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96b57c9aa55097c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica condicional e Controle de Fluxo/Operadores Relacionais/5° - Aula - 1 de OLRCFB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5° - Aula - 1 de OLRCFB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a7882c4f00ec0cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9993d555f44c9ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b142ad5b12656d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "11dc5443df2450dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dbe7dc7dff8ed0a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e1f17975f8ec0f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "483fa78cafb2ef34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3519cf3fb17263b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3873b79be305b42e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f721ffbf30e8d53f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95e95f482542c369",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5d067c350aa341fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e96b57c9aa55097c",
+  "lastOpenFiles": [
+    "Aprendendo  Sintaxe/Operadores/7 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/6 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/5 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/4 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/3 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/2 - Operadores.md",
+    "Aprendendo  Sintaxe/Operadores/1 - Operadores.md",
+    "Aprendendo  Sintaxe/Palavras reservadas/3 - Reservando.md",
+    "Aprendendo  Sintaxe/Palavras reservadas/2 - Reservando.md",
+    "Aprendendo  Sintaxe/Palavras reservadas/1 - Reservando.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos/1 - TeA.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos/2 - TeA.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos/3 - TeA.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos/4 - TeA.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos/5 - TeA.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/5° - Aula - 1 de OLRCFB.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/4 - Exercício de exemplo.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/3 - UOR.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/2 - OQSOR.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/1 - OLRCFB.md",
+    "Lógica condicional e Controle de Fluxo/Operadores Relacionais",
+    "Lógica condicional e Controle de Fluxo",
+    "Aprendendo  Sintaxe/Java Doc/2 - Doc.md",
+    "Aprendendo  Sintaxe/Java Doc/1 - Doc.md",
+    "Aprendendo  Sintaxe/Terminal e Argumentos",
+    "Introdução/Java e sua História.md",
+    "README.md",
+    "Plataformas e Configuração/Configuração do ambiente.md",
+    "Plataformas e Configuração/Escolhendo IDE.md",
+    "Aprendendo  Sintaxe/Anatomia das classes/6 - Anatomia das classes.txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/5 - Anatomia das classes.txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/4- Anatomia das classes.txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/3 - Anatomia das classes.txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/2 - Anatomia das classes.txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/2 - Anatomia das classes (5).txt",
+    "Aprendendo  Sintaxe/Anatomia das classes/2 - Anatomia das classes (4).txt"
+  ]
+}
