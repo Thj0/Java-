@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendendo  Sintaxe/Operadores/4 - Operadores.md",
+                "file": "Estrutura de Repetição e Arrays em Java/Apresentação Geral/2 - Visão Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Operadores"
+              "title": "2 - Visão Geral"
             }
           }
         ]
@@ -182,6 +182,18 @@
   },
   "active": "e96b57c9aa55097c",
   "lastOpenFiles": [
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Pasted image 20251223143546.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Pasted image 20251223143504.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Captura de tela 2025-12-23 132534.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Captura de tela 2025-12-23 132511.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Pasted image 20251223124036.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Pasted image 20251223120611.png",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/1 - Apresentação e Visão Geral.md",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/2 - Visão Geral.md",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral/Pasted image 20251223114636.png",
+    "Aprendendo  Sintaxe/Operadores/4 - Operadores.md",
+    "Estrutura de Repetição e Arrays em Java/Apresentação Geral",
+    "Estrutura de Repetição e Arrays em Java",
     "Aprendendo  Sintaxe/Operadores/3 - Operadores.md",
     "Aprendendo  Sintaxe/Operadores/2 - Operadores.md",
     "Aprendendo  Sintaxe/Operadores/1 - Operadores.md",
@@ -204,11 +216,7 @@
     "Lógica condicional e Controle de Fluxo/Operadores Relacionais/4 - Exercício de exemplo.md",
     "Lógica condicional e Controle de Fluxo/Operadores Lógicos/1 - OqsOL.md",
     "Lógica condicional e Controle de Fluxo/Operadores Lógicos/4 - Exercício - 2 de OLRCFB.md",
-    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/5° - Exercício - 1 de OLRCFB.md",
-    "Lógica condicional e Controle de Fluxo/Blocos/1 - BTU.md",
-    "Lógica condicional e Controle de Fluxo/Controle de Fluxo/4 - ECF.md",
     "Lógica condicional e Controle de Fluxo/Blocos",
-    "Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.6 - 7° Parte do Exercício.md",
     "Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios",
     "Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/Captura de tela 2025-12-22 182507.png",
     "Lógica condicional e Controle de Fluxo/Controle de Fluxo/Pasted image 20251222182647.png",
@@ -219,8 +227,6 @@
     "Lógica condicional e Controle de Fluxo/Operadores Lógicos",
     "Lógica condicional e Controle de Fluxo/Operadores Relacionais",
     "Lógica condicional e Controle de Fluxo",
-    "Aprendendo  Sintaxe/Terminal e Argumentos",
-    "Aprendendo  Sintaxe/Anatomia das classes/6 - Anatomia das classes.txt",
-    "Aprendendo  Sintaxe/Anatomia das classes/5 - Anatomia das classes.txt"
+    "Aprendendo  Sintaxe/Terminal e Argumentos"
   ]
 }
