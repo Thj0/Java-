@@ -17,7 +17,7 @@ As estruturas de repetição podem ser classificadas em:
  - Repetição com teste no final (do-while)
  -  Repetição contada (for)
 
-O comando brak é utilizado para terminar de forma abrupta uma repetição. 
+O comando break é utilizado para terminar de forma abrupta uma repetição. 
 
 Quando o comando continue é executado, os comandos restantes da repetição são ignorados e o programa volta a testar novamente ou não.
 
