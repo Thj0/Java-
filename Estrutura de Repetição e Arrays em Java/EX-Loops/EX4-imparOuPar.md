@@ -216,8 +216,8 @@ Primeira impressão:
 
 `System.out.println("\nQuantidade de números pares: " + pares);`
 
-- `\n` → pula uma linha (quebra de linha)
-- Concatena texto + valor da variável `pares`
+- \n - pula uma linha (quebra de linha)
+- Concatena texto + valor da variável 'pares'
 - Mostra o **total acumulado** durante o laço
 
 Segunda impressão
@@ -255,10 +255,10 @@ ___
 3. Atualiza pares ou ímpares
 4. Incrementa contador
 5. Testa `contador <= n`
-6. Se **true** → volta ao `do`
-7. Se **false** → sai
+6. Se **true** - volta ao `do`
+7. Se **false** - sai
 8. Imprime resultados
-9. Fecha o `Scanner`
+9. Fecha o Scanner
 10. Programa termina
 
 ____
