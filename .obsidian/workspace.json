@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX1 - nomeIdade.md",
+                "file": "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX6 - Fatorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EX1 - nomeIdade"
+              "title": "EX6 - Fatorial"
             }
           }
         ]
@@ -180,8 +180,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f0069ddbab957ac3",
+  "active": "7b142ad5b12656d4",
   "lastOpenFiles": [
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX5 - Tabuada.md",
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX4 - Ímpar ou Par.md",
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX3 - Maior e Média.md",
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX2 - Nota.md",
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX1 - Nome e Idade.md",
+    "Estrutura de Repetição e Arrays em Java/3°EX-Arrays/Ordem Inversa.md",
+    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX6 - Fatorial.md",
+    "Aprendendo  Sintaxe/Tipos e variáveis/4 - Tipos e variáveis.md",
+    "Aprendendo  Sintaxe/Tipos e variáveis/3 - Tipos e variáveis.md",
+    "Aprendendo  Sintaxe/Tipos e variáveis/2 - Tipos e variáveis.md",
+    "Aprendendo  Sintaxe/Tipos e variáveis/1 - Tipos e variáveis.md",
+    "Aprendendo  Sintaxe/Java Doc/2 - Doc.md",
+    "Aprendendo  Sintaxe/Java Doc/1 - Doc.md",
     "Aprendendo  Sintaxe/Operadores/2 - Operadores.md",
     "Aprendendo  Sintaxe/Operadores/1 - Operadores.md",
     "Aprendendo  Sintaxe/Operadores/4 - Operadores.md",
@@ -191,24 +204,11 @@
     "Aprendendo  Sintaxe/Operadores/5 - Operadores.md",
     "Estrutura de Repetição e Arrays em Java/1°Apresentação Geral/2 - Visão Geral.md",
     "Estrutura de Repetição e Arrays em Java/1°Apresentação Geral/1 - Apresentação e Visão Geral.md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX5 - tabuada.md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX6 - fatorial.md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX4 - imparOuPar.md",
     "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX4 - Código da professora..md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX3 - maiorMedia.md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX1 - nomeIdade.md",
-    "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX2 - obtenhaNota.md",
-    "Aprendendo  Sintaxe/Java Doc/2 - Doc.md",
     "Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX2 - nota.md",
-    "Aprendendo  Sintaxe/Java Doc/1 - Doc.md",
     "Aprendendo  Sintaxe/Palavras reservadas/1 - Reservando.md",
     "Aprendendo  Sintaxe/Palavras reservadas/3 - Reservando.md",
-    "Aprendendo  Sintaxe/Palavras reservadas/2 - Reservando.md",
     "Estrutura de Repetição e Arrays em Java/3°EX-Arrays",
-    "Aprendendo  Sintaxe/Escopo/2 - Escopo.md",
-    "Aprendendo  Sintaxe/Escopo/1-Escopo.md",
-    "Aprendendo  Sintaxe/Terminal e Argumentos/1 - TeA.md",
-    "Lógica condicional e Controle de Fluxo/Operadores Relacionais/5° - Exercício - 1 de OLRCFB.md",
     "Estrutura de Repetição e Arrays em Java/2°EX-Loops",
     "Sem título.base",
     "Estrutura de Repetição e Arrays em Java/1°Apresentação Geral/Pasted image 20251223143546.png",
