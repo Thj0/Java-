@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6° Entendendo Métodos Java/Criação/5 - Apresentação do exercício.md",
+                "file": "6° Entendendo Métodos Java/2 - Sobrecarga/2 - Resolução do exercício prático.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Apresentação do exercício"
+              "title": "2 - Resolução do exercício prático"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e1f17975f8ec0f9",
@@ -182,12 +183,16 @@
   },
   "active": "a426611c9f1d7fc6",
   "lastOpenFiles": [
-    "6° Entendendo Métodos Java/Criação/4 - Conceitos Inerentes aos métodos e boas práticas na sua criação..md",
-    "6° Entendendo Métodos Java/Criação/5 - Apresentação do exercício.md",
-    "6° Entendendo Métodos Java/Criação/3 - Definição.md",
+    "6° Entendendo Métodos Java/2 - Sobrecarga/1 - Como criar sobrecargas, usá-las e exercício prático.md",
+    "6° Entendendo Métodos Java/2 - Sobrecarga/2 - Resolução do exercício prático.md",
+    "6° Entendendo Métodos Java/3 - Retornos",
+    "6° Entendendo Métodos Java/1 - Criação/5 - Apresentação do exercício.md",
+    "6° Entendendo Métodos Java/2 - Sobrecarga",
+    "6° Entendendo Métodos Java/1 - Criação/4 - Conceitos Inerentes aos métodos e boas práticas na sua criação..md",
+    "6° Entendendo Métodos Java/1 - Criação/3 - Definição.md",
     "2° Plataformas e Configuração/Configuração do ambiente.md",
-    "6° Entendendo Métodos Java/Criação/2 - Conceituação de métodos.md",
-    "6° Entendendo Métodos Java/Criação/1 - Introdução ao Curso.md",
+    "6° Entendendo Métodos Java/1 - Criação/2 - Conceituação de métodos.md",
+    "6° Entendendo Métodos Java/1 - Criação/1 - Introdução ao Curso.md",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.6 - 7° Parte do Exercício.md",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.5 - 6° Parte do Exercício.md",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.4 - 5° Parte do Exercício.md",
@@ -196,7 +201,7 @@
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.1 - 2° Parte do Exercício.md",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4 -  1° Parte do 3° Exercício de OLRCFB.md",
     "1° Introdução/Introdução e Objetivos.md",
-    "6° Entendendo Métodos Java/Criação",
+    "6° Entendendo Métodos Java/1 - Criação",
     "1° Introdução/Java e sua História.md",
     "1° Introdução/Java Básico.md",
     "4° Lógica condicional e Controle de Fluxo/Blocos/1 - BTU.md",
@@ -208,8 +213,6 @@
     "5° Estrutura de Repetição e Arrays em Java/3°EX-Arrays/2°- Consoantes.md",
     "5° Estrutura de Repetição e Arrays em Java/3°EX-Arrays/1°- Ordem Inversa.md",
     "5° Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX1 - Nome e Idade.md",
-    "5° Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX3 - Maior e Média.md",
-    "5° Estrutura de Repetição e Arrays em Java/2°EX-Loops/EX4 - Código da professora..md",
     "5° Estrutura de Repetição e Arrays em Java/3°EX-Arrays",
     "5° Estrutura de Repetição e Arrays em Java/2°EX-Loops",
     "Sem título.base",
@@ -223,10 +226,8 @@
     "5° Estrutura de Repetição e Arrays em Java/1°Apresentação Geral",
     "5° Estrutura de Repetição e Arrays em Java",
     "4° Lógica condicional e Controle de Fluxo/Blocos",
-    "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/Captura de tela 2025-12-22 182507.png",
     "Lógica condicional e Controle de Fluxo/Controle de Fluxo/Pasted image 20251222182647.png",
-    "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/Pasted image 20251222181712.png",
-    "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo"
+    "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/Pasted image 20251222181712.png"
   ]
 }
