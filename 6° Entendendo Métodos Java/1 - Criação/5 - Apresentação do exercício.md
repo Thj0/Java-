@@ -1,7 +1,7 @@
 
 ## Exercitando 
 
-Cria uma aplicação que resolva as seguintes situações: 
+Criar uma aplicação que resolva as seguintes situações: 
 
  - Calcule as 4 operações básicas: soma, subtração, multiplicação e divisão. Sempre 2 valores devem ser passados. 
  
