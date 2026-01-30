@@ -86,3 +86,14 @@ public class Main {
 }
 
 ```
+
+___
+
+## Referências 
+
+ - https://www.casadocodigo.com.br/products/livro-oo-conceitos
+
+ - https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+
+___
