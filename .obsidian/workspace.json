@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/5 - Método - Conceito.md",
+                "file": "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/6 - Método - Exercício 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Método - Conceito"
+              "title": "6 - Método - Exercício 3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5110321044922,
-    "collapsed": true
+    "width": 352.5110321044922
   },
   "right": {
     "id": "7e1f17975f8ec0f9",
@@ -183,12 +182,13 @@
   },
   "active": "a7337ca459ce722b",
   "lastOpenFiles": [
-    "7° Orientação a Objetos com Java/2 - Por que usar/1 - Porque usar.md",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/5 - Método - Conceito.md",
-    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/1 - Classe - Conceito.md",
-    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/4 - Atributos - Exercício 2.md",
-    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/3 - Atributo - Conceito.md",
+    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/6 - Método - Exercício 3.md",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/2 - Classe - Exercício 1.md",
+    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/4 - Atributos - Exercício 2.md",
+    "7° Orientação a Objetos com Java/2 - Por que usar/1 - Porque usar.md",
+    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/1 - Classe - Conceito.md",
+    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/3 - Atributo - Conceito.md",
     "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/1 - Ordem Inversa.md",
     "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/2 - Consoantes.md",
     "7° Orientação a Objetos com Java/3 - Fundamentos/2 - Exercício.md",
@@ -222,7 +222,6 @@
     "6° Entendendo Métodos Java/2 - Sobrecarga",
     "2° Plataformas e Configuração/Configuração do ambiente.md",
     "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.6 - 7° Parte do Exercício.md",
-    "4° Lógica condicional e Controle de Fluxo/Controle de Fluxo/0 - Exercícios/4.5 - 6° Parte do Exercício.md",
     "6° Entendendo Métodos Java/1 - Criação",
     "5° Estrutura de Repetição e Arrays em Java/1 - Apresentação Geral/Pasted image 20251223143546.png",
     "5° Estrutura de Repetição e Arrays em Java/1 - Apresentação Geral/Pasted image 20251223143504.png",

@@ -107,7 +107,6 @@ ___
 	 - O programador não precisa chamar nada
 	 
 	Em Java, você não destrói objetos manualmente.
-	
 ___
 ### Construtor
 
@@ -130,8 +129,6 @@ class Carro   {
 	}
 }
 ```
-
-
 ___
 ```C#
 class Carro   {
@@ -141,22 +138,19 @@ class Carro   {
 	}
 }
 ```
-
-
 ___
 ```Python
 class Carro:
 	def __init__(self):
 	...
 ```
-
-
 ___
 
 ### Destrutor 
 
+A função do "destrutor" é auxiliar na destruição do objeto.
 
-
+E esse processo de auxiliação é; liberar possíveis recursos que o objeto esteja usando para não ocasionar o travamento desses recursos, ocasionando em recursos ociosos onde achamos que estão sendo utilizados, quando na verdade não estão.
 
 ```Java
 class Carro { 
@@ -166,8 +160,6 @@ class Carro {
 	}
 }
 ```
-
-
 ___
 ```C#
 class Carro { 
@@ -177,8 +169,6 @@ class Carro {
  }
 }
 ```
-
-
 ___
 ```Python
 class Carro: 
@@ -187,5 +177,63 @@ class Carro:
 	
 ```
 
+E o método `finaliza()` ?
+
+Antigamente, existia o método: 
+
+Ele era chamado antes do objeto ser removido da memória, mas: 
+
+Hoje ele é considerado obsoleto e NÃO deve ser usado.
+
+ - Não é garantido quando será executado;
+ - Pode nem ser executado;
+ - Já foi desaconselhado oficialmente.
+
+Na prática, é importante lembrar:
+
+Java não tem método destrutor; ❌
+Java usa Garbage Colletor; ✅
+Você não controla quando um objeto será destruído; ❌
+Você só precisa para de usar o objeto (Ex: sair do escopo, remover interferências). ✅
+
+Em Java, o programador cria objetos, mas quem destrói é o Garbage Colletor.
 
 ___
+ - **Sobrecarga:** 
+	Mudar a assinatura de acordo com a necessidade
+	 - Assinatura: nome + parâmetros
+
+
+```Java
+m1 ()
+m1 (int i)
+m1 (String s, long l)
+m1 (long l, String s)
+```
+
+___
+```C# 
+M1 () 
+M1 (int i)
+M1 (float f)
+M1 (String s, long l)
+M1 (long l, String s)
+```
+
+___
+```Python
+
+```
+
+	 Porque usar?
+
+Isso ajuda a manter a abstração alvo e vai facilitar o entendimento do software.
+___
+
+# Exercício - 3 
+
+Evolua o conceito do exercício 2 e defina 1 método para calcular o valor total para encher o tanque. Este deve receber como parâmetro o valor da gasolina. Faça também duas sobrecargas do construtor.
+
+Obs: Siga as dicas sobre como criar métodos.
+
+Obs: Crie métodos específicos para fornecer e obter os valores dos atributos (set/get), caso aplicável.
