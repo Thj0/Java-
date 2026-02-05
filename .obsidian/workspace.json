@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/4 - Herança - Upcast e Downcast.md",
+                "file": "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/8 - Herança - Exercício 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Herança - Upcast e Downcast"
+              "title": "8 - Herança - Exercício 3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5110321044922,
-    "collapsed": true
+    "width": 352.5110321044922
   },
   "right": {
     "id": "7e1f17975f8ec0f9",
@@ -183,9 +182,15 @@
   },
   "active": "a7337ca459ce722b",
   "lastOpenFiles": [
+    "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/4 - Array Multidimensional.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/8 - Herança - Exercício 3.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/7 - Herança - Exercício 2.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/6 - Herança - Polimorfismo e Sobrescrita.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260205125112.png",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260205124008.png",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/4 - Herança - Upcast e Downcast.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260204184123.png",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/3 - Herança - Tipos.md",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/4 - Herança - Upcast e Downcast.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260204174439.png",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260204174329.png",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/2 - Herança - Exercício 1.md",
@@ -220,14 +225,8 @@
     "7° Orientação a Objetos com Java",
     "6° Entendendo Métodos Java/1 - Criação/2 - Conceituação de métodos.md",
     "6° Entendendo Métodos Java/1 - Criação/1 - Introdução ao Curso.md",
-    "6° Entendendo Métodos Java/1 - Criação/5 - Apresentação do exercício.md",
-    "6° Entendendo Métodos Java/1 - Criação/4 - Conceitos Inerentes aos métodos e boas práticas na sua criação..md",
-    "6° Entendendo Métodos Java/3 - Retornos/2 - Resolução do exercício..md",
     "6° Entendendo Métodos Java/3 - Retornos",
     "6° Entendendo Métodos Java/2 - Sobrecarga",
-    "6° Entendendo Métodos Java/1 - Criação",
-    "5° Estrutura de Repetição e Arrays em Java/1 - Apresentação Geral/Pasted image 20251223143546.png",
-    "5° Estrutura de Repetição e Arrays em Java/1 - Apresentação Geral/Pasted image 20251223143504.png",
-    "5° Estrutura de Repetição e Arrays em Java/1 - Apresentação Geral/Captura de tela 2025-12-23 132534.png"
+    "6° Entendendo Métodos Java/1 - Criação"
   ]
 }
