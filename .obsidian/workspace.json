@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/13 - Interface - Exercício.md",
+                "file": "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/5 - Conclusão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Interface - Exercício"
+              "title": "5 - Conclusão"
             }
           }
         ],
@@ -197,8 +197,13 @@
   },
   "active": "04e442ffa287cc4c",
   "lastOpenFiles": [
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/12 - Interface - Conceito.md",
+    "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/4 - Visibilidades - Exercício 2.md",
+    "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/3 - Visibilidades - Conceitos.md",
+    "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/2 - Pacotes - Exercício 1.md",
+    "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/1 - Pacotes - Conceitos.md",
+    "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades/5 - Conclusão.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/13 - Interface - Exercício.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/12 - Interface - Conceito.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/11 - Associação - Exercício 4.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/10 - Associação - Tipos.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260209122927.png",
@@ -226,13 +231,8 @@
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/4 - Atributos - Exercício 2.md",
     "7° Orientação a Objetos com Java/2 - Por que usar/1 - Porque usar.md",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/1 - Classe - Conceito.md",
-    "7° Orientação a Objetos com Java/4 - Estrutura básica da OO/3 - Atributo - Conceito.md",
-    "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/1 - Ordem Inversa.md",
-    "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/2 - Consoantes.md",
-    "7° Orientação a Objetos com Java/3 - Fundamentos/2 - Exercício.md",
     "7° Orientação a Objetos com Java/3 - Fundamentos/Pasted image 20260130152641.png",
     "7° Orientação a Objetos com Java/3 - Fundamentos/Pasted image 20260130151827.png",
-    "7° Orientação a Objetos com Java/3 - Fundamentos/1 - Fundamentos.md",
     "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO",
