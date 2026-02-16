@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8° Trabalhando com Collections Java/2 - Lists/4 - Ordenação de elementos em uma coleção LIST - 1.md",
+                "file": "8° Trabalhando com Collections Java/2 - Lists/6 - Exercícios propostos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Ordenação de elementos em uma coleção LIST - 1"
+              "title": "6 - Exercícios propostos"
             }
           }
         ],
@@ -197,8 +197,11 @@
   },
   "active": "04e442ffa287cc4c",
   "lastOpenFiles": [
-    "8° Trabalhando com Collections Java/2 - Lists/3 - Conhecendo os métodos List - P2.md",
+    "8° Trabalhando com Collections Java/2 - Lists/7 - Exercício 1.md",
+    "8° Trabalhando com Collections Java/2 - Lists/6 - Exercícios propostos.md",
+    "8° Trabalhando com Collections Java/2 - Lists/5 - Ordenação de elementos em uma coleção LIST - 2.md",
     "8° Trabalhando com Collections Java/2 - Lists/4 - Ordenação de elementos em uma coleção LIST - 1.md",
+    "8° Trabalhando com Collections Java/2 - Lists/3 - Conhecendo os métodos List - P2.md",
     "8° Trabalhando com Collections Java/2 - Lists/2 - Conhechendo os métodos List - P1.md",
     "8° Trabalhando com Collections Java/2 - Lists/1 - Coleções com iterações ordenadas - Listas.md",
     "8° Trabalhando com Collections Java/2 - Lists/Pasted image 20260210190636.png",
@@ -236,9 +239,6 @@
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260205124008.png",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/4 - Herança - Upcast e Downcast.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260204184123.png",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/3 - Herança - Tipos.md",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/2 - Herança - Exercício 1.md",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/1 - Herança - Conceito.md",
     "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO",
