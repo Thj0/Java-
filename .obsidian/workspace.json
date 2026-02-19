@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1383473bac37ca8e",
+        "id": "5674353f8c13adac",
         "type": "tabs",
         "children": [
           {
-            "id": "a7337ca459ce722b",
+            "id": "cf993ce6d49dde93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/8 - Herança - Exercício 3.md",
+                "file": "8° Trabalhando com Collections Java/3 - Set/2 - Conhecendo os métodos Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Herança - Exercício 3"
-            }
-          },
-          {
-            "id": "04e442ffa287cc4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8° Trabalhando com Collections Java/2 - Lists/7 - Exercício - 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 - Exercício - 1"
+              "title": "2 - Conhecendo os métodos Set"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +180,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "04e442ffa287cc4c",
+  "active": "cf993ce6d49dde93",
   "lastOpenFiles": [
-    "8° Trabalhando com Collections Java/2 - Lists/6 - Exercícios propostos.md",
+    "8° Trabalhando com Collections Java/3 - Set/1 - Conhechendo com singularidade - Set.md",
+    "8° Trabalhando com Collections Java/3 - Set/2 - Conhecendo os métodos Set.md",
+    "8° Trabalhando com Collections Java/3 - Set/Pasted image 20260219151510.png",
+    "8° Trabalhando com Collections Java/3 - Set/Pasted image 20260219150305.png",
     "8° Trabalhando com Collections Java/2 - Lists/7 - Exercício - 1.md",
+    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/8 - Herança - Exercício 3.md",
+    "8° Trabalhando com Collections Java/2 - Lists/Sem título.md",
+    "8° Trabalhando com Collections Java/2 - Lists/6 - Exercícios propostos.md",
     "8° Trabalhando com Collections Java/2 - Lists/7 - Exercício 1.md",
     "8° Trabalhando com Collections Java/2 - Lists/5 - Ordenação de elementos em uma coleção LIST - 2.md",
     "8° Trabalhando com Collections Java/2 - Lists/4 - Ordenação de elementos em uma coleção LIST - 1.md",
@@ -232,13 +223,7 @@
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/9 - Associação - Conceito.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260209120710.png",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260209120031.png",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/8 - Herança - Exercício 3.md",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/7 - Herança - Exercício 2.md",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/6 - Herança - Polimorfismo e Sobrescrita.md",
-    "5° Estrutura de Repetição e Arrays em Java/3 - EX-Arrays/4 - Array Multidimensional.md",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260205125112.png",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260205124008.png",
-    "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface/Pasted image 20260204184123.png",
     "7° Orientação a Objetos com Java/6 - A Organização de Pacotes e Visibilidades",
     "7° Orientação a Objetos com Java/5 - As relações - Herança, Associação e Interface",
     "7° Orientação a Objetos com Java/4 - Estrutura básica da OO",
